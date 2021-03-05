@@ -6,6 +6,8 @@
   link: '/getting-started'
 - label: Usage
   items:
+    - label: 'Item List'
+      link: '/usage/item-list'
     - label: 'Creating docs'
       link: '/usage/creating-docs'
     - label: 'Navigation'
