@@ -1,26 +1,18 @@
 # Sidebar navigation
 
-- label: 'Introduction'
+- label: 'About'
   link: '/'
 - label: 'Getting started'
   link: '/getting-started'
-- label: Usage
+- label: Mobs and Drops
   items:
     - label: 'Item List'
       link: '/usage/item-list'
-    - label: 'Creating docs'
-      link: '/usage/creating-docs'
-    - label: 'Navigation'
-      link: '/usage/navigation'
-    - label: 'Shadowing'
-      link: '/usage/shadowing'
-- label: More
+- label: Items
   items:
-    - label: FAQ
-      link: /faq
-    - label: Changelog
-      link: /changelog
 - label: Community
   items:
+    - label: 'Changelog'
+      link : '/changelog'
     - label: 'Github'
       link: https://github.com/rocketseat/gatsby-themes
